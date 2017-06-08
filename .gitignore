@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PointString/bin/Debug
+/PointString/obj/Debug
+/.vs/PointString/v14
